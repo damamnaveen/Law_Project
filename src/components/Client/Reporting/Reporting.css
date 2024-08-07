@@ -362,3 +362,8 @@ input {
     padding: 10px;
     
 }
+
+/* .form-control:focus{
+    border: none;
+    outline: none;
+} */
